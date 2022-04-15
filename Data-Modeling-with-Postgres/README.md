@@ -73,7 +73,7 @@ Using the song and log datasets, a star schema was created to optimze for querie
 ### Project Structure
 ***
 
-In addition data files, this project includes the following files:
+* In addition data files, this project includes the following files:
     + `test.ipynb` - displays the first few rows of each table to check the database.
     + `create_tables.py` - drops and creates tables. Run this file to reset tables before running ETL scripts each time.
     + `etl.py` - reads and processes a single file from *song_data* and *log_data* and loads the data into the tables. This notebook contains detailed instructions on the ETL process for each of the tables.
