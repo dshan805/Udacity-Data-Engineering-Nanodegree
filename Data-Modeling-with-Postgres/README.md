@@ -1,6 +1,12 @@
 # Project: Data Modeling with Postgres
 ***
 
+## Summary
+* [Introduction](#Introduction)
+* [Project Description](#Project-Description)
+* [Database Schema](#Database-Schema)
+* [Project Structure](#Project-Structure)
+
 ## Introduction
 ***
 
