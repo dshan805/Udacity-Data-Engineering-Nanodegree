@@ -41,11 +41,11 @@ log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 ```
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
-![log-data](./images/log-data.PNG)
+<img src="images/log-data.png">
 
 ## Schema for Song Play Analysis
 
-![dbSchema](./images/dbSchema.PNG)
+<img src="images/dbSchema.png">
 
 ### Fact Table
 1. **songplays**  - records in event data associated with song plays i.e. records with page NextSong
